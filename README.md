@@ -28,6 +28,23 @@ It supports multiple types of loads and generates shear force and bending moment
 
 ---
 
+## 📥 Example Input
+
+- Beam Type: Simply Supported  
+- Beam Length: 10 m  
+- Point Load: 5 kN at 4 m  
+- UDL: 2 kN/m from 6 m to 9 m
+
+---
+
+## 📤 Output
+
+The program generates the Shear Force and Bending Moment Diagram:
+
+![Beam Graph](graph.png)
+
+---
+
 ## 🛠️ Technologies Used
 - Python
 - Matplotlib
